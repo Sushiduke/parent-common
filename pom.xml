@@ -60,7 +60,7 @@
         <commons-collections.version>4.4</commons-collections.version>
         <equalsverifier.version>3.1.10</equalsverifier.version>
         <jackson-datatype-jsr310.version>2.10.1</jackson-datatype-jsr310.version>
-        <json.version>20200518</json.version>
+        <json.version>20230227</json.version>
         <springfox.version>3.0.0</springfox.version>
         <swagger.version>1.5.22</swagger.version>
         <lombok.version>1.18.16</lombok.version>
